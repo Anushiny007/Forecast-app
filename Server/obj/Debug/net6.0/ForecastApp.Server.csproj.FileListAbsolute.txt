@@ -1,0 +1,101 @@
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Client.staticwebassets.runtime.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\appsettings.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.staticwebassets.runtime.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.exe
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.deps.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.runtimeconfig.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Client.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Shared.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Client.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Shared.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.csproj.AssemblyReference.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.AssemblyInfoInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.AssemblyInfo.cs
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.csproj.CoreCompileInputs.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.RazorAssemblyInfo.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.RazorAssemblyInfo.cs
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.ForecastApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.ForecastApp.Server.props
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ForecastApp.Server.props
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ForecastApp.Server.props
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\scopedcss\bundle\ForecastApp.Server.styles.css
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.csproj.CopyComplete
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\refint\ForecastApp.Server.dll
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.pdb
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.genruntimeconfig.cache
+D:\thanu\Msc Uni\Projects-for-Assignment\ForecastApp\Server\obj\Debug\net6.0\ref\ForecastApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Client.staticwebassets.runtime.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.staticwebassets.runtime.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.exe
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.deps.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.runtimeconfig.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Server.pdb
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Client.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Shared.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Client.pdb
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\bin\Debug\net6.0\ForecastApp.Shared.pdb
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.csproj.AssemblyReference.cache
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.AssemblyInfoInputs.cache
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.AssemblyInfo.cs
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.RazorAssemblyInfo.cache
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.RazorAssemblyInfo.cs
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\scopedcss\bundle\ForecastApp.Server.styles.css
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.csproj.CopyComplete
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\refint\ForecastApp.Server.dll
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.pdb
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ForecastApp.Server.genruntimeconfig.cache
+C:\Users\Thatcha1\Documents\vs code projects\ForecastApp\ForecastApp\Server\obj\Debug\net6.0\ref\ForecastApp.Server.dll
